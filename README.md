@@ -1,24 +1,7 @@
-# README
+# PodReader
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+AIM:  Using an audio transcription service, take episodes of Knowledge Fight via RSS feed and transcribe the episodes. Then, index the episodes and make the documents searchable by keyword and topic. 
 
-Things you may want to cover:
+Finally, make the finished product available to the Knowledge Fight community via Reddit. 
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Later on, turn this into a reusable product. 
